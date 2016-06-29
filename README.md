@@ -17,7 +17,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.</p>
 <h2><a id="user-content-source-code-of-libraries-used" class="anchor" href="#source-code-of-libraries-used" aria-hidden="true"><span class="octicon octicon-link"></span></a>Library</h2>
-<p><a href="https://github.com/facebook/react-native" target="_blank">ReactNative</a></p>
+<p><a href="https://github.com/facebook/react-native" target="blank">ReactNative</a></p>
 <h2><a id="user-content-documentation" class="anchor" href="#documentation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Document</h2>
 <p><a href="https://github.com/Carymax1988/ReactNative-SampleAppMovies/wiki">Wiki</a></p>
 <p><a href="http://liujiaqi.imblog.in">Author's Blog</a></p>
