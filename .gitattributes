@@ -1,4 +1,6 @@
-*.js linguist-language=Scala
-*.css linguist-language=Scala
-*.html linguist-language=Scala
-*.java linguist-language=Scala
+*.js linguist-language=Android
+*.css linguist-language=Android
+*.html linguist-language=Android
+*.java linguist-language=Android
+*.m linguist-language=Android
+*.h linguist-language=Android
